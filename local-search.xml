@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>程序与插件收集</title>
+    <link href="/2024/03/20/application-collect/"/>
+    <url>/2024/03/20/application-collect/</url>
+    
+    <content type="html"><![CDATA[<p>收录本人<strong>正在</strong>使用的程序与插件。</p><ul><li><a href="https://www.voidtools.com/zh-cn/downloads/">Everything</a><ul><li>查找文件</li><li><a href="https://www.voidtools.com/Everything-1.4.1.1024.x64-Setup.exe">1.4.1.1024 安装版64位</a></li></ul></li><li><a href="http://www.wox.one/">Wox</a><ul><li>配合 Everything 使用，<code>Alt+空格</code>呼出</li><li><a href="https://github.com/Wox-launcher/Wox/releases/download/v1.4.1196/Wox-1.4.1196.exe">1.4.1196</a></li></ul></li><li><a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a><ul><li>可以折腾的文本编辑器</li><li><a href="https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user">stable build</a></li><li>扩展<ul><li>Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code</li><li>Markdown All in One : Markdown写作</li><li>Markdown Preview Enhanced : 渲染Markdown</li><li>Code Spell Checker 拼写检查，支持英文</li></ul></li></ul></li><li><a href="https://steampp.net/">Watt Toolkit</a><ul><li>实用程序与工具</li></ul></li><li><a href="https://obsproject.com/">OBS Studio</a><ul><li>Open Broadcaster Software，直播推流兼录屏</li><li><a href="https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.1-Full-Installer-x64.exe">30.1.0</a></li></ul></li><li><a href="https://potplayer.daum.net/">PotPlayer</a><ul><li>视频播放器</li><li><a href="http://www.potplayercn.com/download/potplayer240305.html">中文网 ver 240305</a></li></ul></li><li><a href="https://tuya.xinxiao.tech/">图压</a><ul><li><a href="https://haokuai.cdn.tinyservices.net/tuya/%E5%9B%BE%E5%8E%8B%20Setup%200.4.1.exe">0.4.1</a></li></ul></li><li><a href="https://getsharex.com/">ShareX</a><ul><li><a href="https://sspai.com/post/43937">介绍</a> “一个软件，满足你所有的截图需求”</li><li><a href="https://apps.microsoft.com/detail/9nblggh4z1sp?rtc=1&hl=zh-cn&gl=CN">release</a></li></ul></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>早期博客归档</title>
     <link href="/2024/03/16/archives-2021/"/>
     <url>/2024/03/16/archives-2021/</url>
     
-    <content type="html"><![CDATA[<h2 id="一些遗产"><a href="#一些遗产" class="headerlink" title="一些遗产"></a>一些遗产</h2><p>三年前（以及现在）的博客写作，或者说“折腾”，不过是兴趣使然。</p><p>往事如雪泥鸿爪，过眼云烟而已。</p><p>留一方空间给它们安栖吧。</p><p><a href="downloads/blog.7z"><img src="/img/wanderer_kongstudio.jpg"></a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一些遗产"><a href="#一些遗产" class="headerlink" title="一些遗产"></a>一些遗产</h2><p>三年前（以及现在）的博客写作，或者说“折腾”，不过是兴趣使然。</p><p>往事如雪泥鸿爪，过眼云烟而已。</p><p>留一方空间给它们安栖吧。</p><p><img src="/img/wanderer_kongstudio.jpg"></p>]]></content>
     
     
     
